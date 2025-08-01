@@ -1,0 +1,12 @@
+ 1 Prashant Singh Cardiologist 700 11:00Am-08:00Pm
+ 2 Santosh Kumar Dentist 500 04:00Pm-08:00Pm
+ 3 Rahul Kumar ENT 400 05:00Pm-07:00Pm
+ 4 Shreshth Tripathi Gastroenterologist 450 05:00Pm-09:00Pm
+ 5 Shradha Shukla Physician 550 04:00pm-07:00Pm
+ 6 Sachin Chauhan Gynaecologist 600 10:00Am-04:00Pm
+ 7 Hardik Yadav Neurologist 1000 10:00Am:08:00Pm
+ 8 Vinay Tiwari Oncologist 650 05:00Pm-09:00Pm
+ 9 Nivedita Rao Orthopedic 600 04:00Pm-08:00Pm
+ 10 Sarvagya Kumar Pediatrician 400 05:00Pm-09:00Pm
+ 11 Shivani Shah Psychiatrist 700 10:00Am-08:00Pm
+ 12 Sudha Yadav Dematologist 800 11:00Pm-08:00Pm
